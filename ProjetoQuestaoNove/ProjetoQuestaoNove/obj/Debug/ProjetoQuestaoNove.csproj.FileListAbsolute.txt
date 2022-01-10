@@ -1,8 +1,0 @@
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\bin\Debug\ProjetoQuestaoNove.exe.config
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\bin\Debug\ProjetoQuestaoNove.exe
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\bin\Debug\ProjetoQuestaoNove.pdb
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\obj\Debug\ProjetoQuestaoNove.csproj.AssemblyReference.cache
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\obj\Debug\ProjetoQuestaoNove.csproj.SuggestedBindingRedirects.cache
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\obj\Debug\ProjetoQuestaoNove.csproj.CoreCompileInputs.cache
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\obj\Debug\ProjetoQuestaoNove.exe
-C:\Users\norbe\Source\Repos\ProjetoQuestaoNove\ProjetoQuestaoNove\obj\Debug\ProjetoQuestaoNove.pdb
